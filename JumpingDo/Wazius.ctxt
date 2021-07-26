@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Wazius
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wazius\ here.\r\n\ Universidad\ del\ Valle\ de\ Guatemala\r\n\ Nombre\:\ Diego\ Alexander\ Hern\u00E1ndez\ Silvestre\ Carn\u00E9\:\ 21270\r\n\ Proyecto\:\ Jumping\ Do\r\n\ @author\ (DiegoHern\u00E1ndez;))\ \r\n\ @version\ (Version\ 0.001\ /\ 22/07/2021)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkKeys()
+comment3.params=
+comment3.target=void\ horizontalmovement()
+comment4.params=
+comment4.target=void\ verticalmovement()
+comment5.params=
+comment5.target=void\ perdiste()
+comment6.params=
+comment6.target=void\ fall()
+comment7.params=
+comment7.target=void\ moveRight()
+comment8.params=
+comment8.target=void\ moveLeft()
+comment9.params=
+comment9.target=void\ jump()
+numComments=10
